@@ -8,7 +8,7 @@ My name is Rômulo,
 
 :books: I'm currently studying Web Development at Trybe (https://www.betrybe.com/).
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: become a FullStack Web Developer.
 
  
 
