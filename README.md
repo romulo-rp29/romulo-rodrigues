@@ -6,7 +6,7 @@ My name is Rômulo,
 
 :house_with_garden: I’m from São Luís, Brazil.
 
-:books: I'm currently studying Web Development at Trybe (https://www.betrybe.com/)..
+:books: I'm currently studying Web Development at Trybe (https://www.betrybe.com/).
 
 :outbox_tray: 2022 Goals: create a new project and find a new job.
 
