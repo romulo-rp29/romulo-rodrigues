@@ -10,7 +10,7 @@ My name is Rômulo,
 
 :outbox_tray: 2022 Goals: become a FullStack Web Developer.
 
-(https://github-readme-stats.vercel.app/api?username=romulo-rp29)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulo-rp29)
  
 
 ## About me
