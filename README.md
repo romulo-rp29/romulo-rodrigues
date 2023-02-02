@@ -3,7 +3,7 @@ Olá Mundo!
 
 My name is Rômulo,
 
-:computer: I'm Web Developer FullStack!
+:computer: I'm FullStack Web Developer!
 
 :house_with_garden: I’m from São Luís, Brazil.
 
