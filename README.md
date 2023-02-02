@@ -3,13 +3,9 @@ Olá Mundo!
 
 My name is Rômulo,
 
-:computer: I'm Front-End Developer!
+:computer: I'm Web Developer FullStack!
 
 :house_with_garden: I’m from São Luís, Brazil.
-
-:books: I'm currently studying Web Development at [Trybe](https://www.betrybe.com/).
-
-:outbox_tray: 2022 Goals: become a FullStack Web Developer.
 
 ## About me / Sobre min:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulo-rp/)](https://www.linkedin.com/in/romulo-rp/)
